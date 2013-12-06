@@ -1,8 +1,8 @@
-@USERNAME's life
+Joey K Black's life
 ===============
 
-- 1987 Born
-- 2005-2009 UNF - Computer Science
+- 2/1987 Born
+- 9/2005-3/2009 UNF - Computer Science
 - 6/2009-~ Software Engineer - NDMS
 - 9/2011-12/2011 Introduction to AI
 - 9/2011-12/2011 Machine Learning
